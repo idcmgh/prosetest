@@ -4,6 +4,13 @@ prose:
   media: 'content/media'
   metadata:
     content/news:
+      - name: "title"
+        field:
+          element: "text"
+          label: "lang"
+          help: "language"
+          placeholder: "Enter language"
+    content/news:
       - name: "published"
         field:
           element: "checkbox"
