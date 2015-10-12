@@ -10,6 +10,13 @@ prose:
           label: "lang"
           help: "language"
           placeholder: "Enter language"
+    content/news:
+      - name: "lang"
+        field:
+          element: "text"
+          label: "lang"
+          help: "language"
+          placeholder: "Enter language"
       - name: "published"
         field:
           element: "checkbox"
