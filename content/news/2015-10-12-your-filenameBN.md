@@ -8,9 +8,6 @@ tags:
 title: myname
 ---
 
-
-
-
 ## A New Post
 
 ### Made from a contributer
