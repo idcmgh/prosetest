@@ -1,3 +1,11 @@
+---
+published: true
+title: title from meta
+date: ""
+allowComments: true
+tags: null
+---
+
 # Pax iam belli pumice
 
 ## Patentes phaethon
