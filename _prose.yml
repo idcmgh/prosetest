@@ -3,7 +3,7 @@ prose:
   siteurl: 'http://blog.crushingpennies.com/wunderdog/'
   media: 'content/media'
   metadata:
-    content/news:
+    content:
       - name: "title"
         field:
           element: "text"
