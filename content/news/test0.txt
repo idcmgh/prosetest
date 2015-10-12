@@ -9,7 +9,8 @@ lang: ""
 ---
 
 
-# Edited from GG.
+
+# Edited from GG. And then again from K
 Pax iam belli pumice
 
 ## Patentes phaethon
