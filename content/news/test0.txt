@@ -3,10 +3,14 @@ published: true
 title: title from meta
 date: ""
 allowComments: true
-tags: null
+tags: 
+  - "null"
+lang: ""
 ---
 
-# Pax iam belli pumice
+
+# Edited from GG.
+Pax iam belli pumice
 
 ## Patentes phaethon
 
