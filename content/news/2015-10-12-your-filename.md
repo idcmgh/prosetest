@@ -3,9 +3,11 @@ lang: ""
 published: true
 date: ""
 allowComments: true
-tags: null
-title: ""
+tags: 
+  - "null"
+title: better name
 ---
+
 
 ## A New Post
 
