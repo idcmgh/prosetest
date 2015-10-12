@@ -3,7 +3,7 @@ prose:
   siteurl: 'http://blog.crushingpennies.com/wunderdog/'
   media: 'content/media'
   metadata:
-    content/posts:
+    content/news:
       - name: "published"
         field:
           element: "checkbox"
@@ -47,7 +47,7 @@ prose:
               value: "opengl"
             - name: "Web"
               value: "web"
-    content/testimonials:
+    content/pages:
       - name: "published"
         field:
           element: "checkbox"
